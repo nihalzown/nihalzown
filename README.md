@@ -1,6 +1,6 @@
 # --nihalzown--
 
-![Cyber Banner](file:///home/nihalzown/Downloads/cold,%20smooth%20&%20tasty..png)
+![Alt text](https://github.com/nihalzown/nihalzown/blob/main/CY.png)
 
 ## 👨‍💻 About Me
 
