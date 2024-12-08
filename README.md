@@ -14,8 +14,8 @@ I'm a cybersecurity enthusiast with a knack for UI/UX and graphic design.
 ![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihalzown&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- Email: [your-email@example.com](mailto:nihalnihu710@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/nihalzown)
+- Email: [nihalnihu710@gmail.com](mailto:nihalnihu710@gmail.com)
+- LinkedIn: [Muhammed Nihal](https://www.linkedin.com/in/nihalzown/)
 - GitHub: [Nihalzown](https://github.com/nihalzown)
 
 Feel free to explore my repositories and connect with me!
