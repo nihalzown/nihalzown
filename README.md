@@ -40,4 +40,3 @@ Thanks for visiting! 😊
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 Thanks for visiting! 😊
-![Cyber Themed Banner](https://example.com/cyber-banner.png)
