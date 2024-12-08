@@ -38,5 +38,3 @@ Feel free to explore my repositories and connect with me!
 
 Thanks for visiting! 😊
 > "The only way to do great work is to love what you do." - Steve Jobs
-
-Thanks for visiting! 😊
