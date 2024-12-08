@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Nihal 👋
 
-<!--
-**nihalzown/nihalzown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity enthusiast with a knack for UI/UX and graphic design.
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity Student
+- Pursuing a degree in Cybersecurity.
+- Passionate about network security, cryptography, and ethical hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Designer
+- Creating user-friendly interfaces and visual stories.
+- Skilled with Figma, Sketch, Adobe XD, and Adobe Creative Suite.
+
+## 📊 GitHub Stats
+![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihalzown&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- Email: [your-email@example.com](mailto:nihalnihu710@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/nihalzown)
+- GitHub: [Nihalzown](https://github.com/nihalzown)
+
+Feel free to explore my repositories and connect with me!
+
+Thanks for visiting! 😊
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+Thanks for visiting! 😊
+![Cyber Themed Banner](https://example.com/cyber-banner.png)
