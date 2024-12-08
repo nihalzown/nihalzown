@@ -1,6 +1,6 @@
-# -------------------
+# --nihalzown--
 
-![Cyber Banner](https://your-banner-image-url.com)
+![Cyber Banner](file:///home/nihalzown/Downloads/cold,%20smooth%20&%20tasty..png)
 
 ## 👨‍💻 About Me
 
