@@ -23,6 +23,11 @@ I'm Nihalzown, a passionate designer and cybersecurity enthusiast. I thrive in t
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
+
+Copy and paste those lines into your README where you want the badges to appear. If you want different colors, sizes, or spacing, tell me how and I’ll adjust them.
 
 ## 📈 GitHub Stats
 
