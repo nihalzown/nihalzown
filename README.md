@@ -27,8 +27,6 @@ I'm Nihalzown, a passionate designer and cybersecurity enthusiast. I thrive in t
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 
-Copy and paste those lines into your README where you want the badges to appear. If you want different colors, sizes, or spacing, tell me how and I’ll adjust them.
-
 ## 📈 GitHub Stats
 
 ![Nihalzown's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihalzown&show_icons=true&theme=dark&hide=stars,prs)
