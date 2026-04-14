@@ -47,7 +47,9 @@ Eliminates passwords using Decentralized Identity (DID).
 
 ### 📈 System Analytics
 
-[![GitHub Stats](https://readme-stats.demolab.com/api?username=nihalzown&show_icons=true&theme=dark&hide_border=true)](https://github.com/nihalzown)
+[![GitHub Stats](https://readme-stats.demolab.com/api?username=nihalzown&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/nihalzown)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nihalzown&theme=dark&hide_border=true)](https://github.com/nihalzown)
+<br>
 [![Top Langs](https://readme-stats.demolab.com/api/top-langs/?username=nihalzown&layout=compact&theme=dark&hide_border=true)](https://github.com/nihalzown)
 
 ---
