@@ -1,76 +1,57 @@
-# Nihalzown
+# --nihalzown--
 
-![AC Inc. Banner](https://github.com/nihalzown/nihalzown/blob/main/CY.png)
+![Alt text](https://github.com/nihalzown/nihalzown/blob/main/CY.png)
 
-## Senior Full-Stack Architect & Cybersecurity Researcher
-I build high-performance, glassmorphic systems and secure neural networks of data. My work sits at the intersection of **Elite UI/UX** and **Robust Backend Architecture**. Currently scaling **AC Inc.** digital assets.
+## 👨‍💻 About Me
 
----
+I'm Nihalzown, a passionate designer and cybersecurity enthusiast. I thrive in the dark corners of the web, exploring the world of code and security and create wonderful designs with an artistic touch.
 
-### 🌐 Core Tech Stack [Production Ready]
+## 🛡️ Cybersecurity Student
+- Pursuing a degree in Cybersecurity.
+- Passionate about network security, cryptography, and ethical hacking.
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+## 🎨 Designer
+- Creating user-friendly interfaces and visual stories.
+- Skilled with Figma, Sketch, Adobe XD, and Adobe Creative Suite.
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+## 🛠️ Technologies & Tools
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-101010?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 
----
+## 🚀 Critical Systems & Projects
 
-### 🚀 Latest Mission Logs (Recent Projects)
+### 🧠 Project Jordan
+**AI-Powered Financial Neural Net**
+A lightweight personal financial assistant designed to democratize financial analysis. It ingests raw financial data (CSV/Excel reports, PDFs, screenshots, stock screeners) and translates them into beginner-friendly insights. Features a sleek web dashboard with graphical visualizations, plain-English summaries, and a persistent context-aware AI chat assistant.
 
-#### 🔋 **AC Inc. Design System**
-* **Role:** Lead Architect
-* **Stack:** Next.js, Tailwind, Lucide-React.
-* **Result:** Developed a proprietary "Deep Dark" UI kit featuring glassmorphism and high-performance micro-interactions.
-* **Feature:** Optimized for LCP (Largest Contentful Paint) < 1.2s.
+### 🛡️ The Aegis Protocol
+**Zero-Knowledge Decentralized Storage**
+A censorship-resistant, zero-knowledge decentralized content storage system. Unlike traditional cloud storage, this system is engineered so that no central authority (including the developers) can access, delete, or censor user data. It relies on mathematically uncompromisable architecture.
 
-#### 🛡️ **Neural-Shield Security Auditor**
-* **Role:** Security Engineer
-* **Stack:** Python, Scapy, Docker.
-* **Result:** Built a localized network vulnerability scanner that identifies open ports and suggests remediation protocols based on CVE databases.
+### 🔑 Null Key (Aegis-Vault)
+**DID Passwordless Authentication**
+Phishing and weak passwords remain the primary attack vectors in web security. Null Key eliminates traditional credential-based login by implementing a Decentralized Identity (DID) system. Users authenticate using cryptographic wallets (MetaMask, Phantom) via public-key cryptography. 
+> **The "Key in Pocket" Analogy:** To enter a website, you don't type a password; you just plug in your digital key. The door unlocks automatically. Immune to phishing, credential stuffing, and brute-force attacks because there is no password to steal.
+## 📈 GitHub Stats
 
-#### 📦 **Distributed Inventory Matrix**
-* **Role:** Full-Stack Developer
-* **Stack:** TypeScript, PostgreSQL, Prisma.
-* **Result:** A modular supply-chain tracker with real-time state synchronization and 99.9% data consistency.
+![Nihalzown's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihalzown&show_icons=true&theme=dark&hide=stars,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihalzown&layout=compact&theme=dark)
 
----
+## 📫 Contact Me
+- Email: [nihalnihu710@gmail.com](mailto:nihalnihu710@gmail.com)
+- LinkedIn: [Muhammed Nihal](https://www.linkedin.com/in/nihalzown/)
+- GitHub: [Nihalzown](https://github.com/nihalzown)
 
-### 📊 System Analytics
+Feel free to explore my repositories and connect with me!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalzown&show_icons=true&theme=radical&hide_border=true" alt="Nihalzown's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalzown&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-### 📡 Encrypted Communication
-
-<p align="left">
-  <a href="mailto:nihalnihu710@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/nihalzown/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/nihalzown">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-> "Architecting the future, one commit at a time." — **Protocol AC-01**
+Thanks for visiting! 😊
+> "The only way to do great work is to love what you do." - Steve Jobs
