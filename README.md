@@ -1,4 +1,4 @@
-# ⚡ System Protocol: Nihalzown
+# Nihalzown
 
 ![AC Inc. Banner](https://github.com/nihalzown/nihalzown/blob/main/CY.png)
 
