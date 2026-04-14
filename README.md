@@ -1,43 +1,56 @@
-# --nihalzown--
+# ⚡ System Protocol: Nihalzown
 
-![Alt text](https://github.com/nihalzown/nihalzown/blob/main/CY.png)
+![AC Inc. Banner](https://github.com/nihalzown/nihalzown/blob/main/CY.png)
 
-## 👨‍💻 About Me
+## 🛠 Status: Senior Full-Stack Architect & Cybersecurity Researcher
+I build high-performance, glassmorphic systems and secure neural networks of data. My work sits at the intersection of **Elite UI/UX** and **Robust Backend Architecture**. Currently scaling **AC Inc.** digital assets.
 
-I'm Nihalzown, a passionate designer and cybersecurity enthusiast. I thrive in the dark corners of the web, exploring the world of code and security and create wonderful designs with an artistic touch .
+---
 
-## 🛡️ Cybersecurity Student
-- Pursuing a degree in Cybersecurity.
-- Passionate about network security, cryptography, and ethical hacking.
+### 🌐 Core Tech Stack [Production Ready]
 
-## 🎨 Designer
-- Creating user-friendly interfaces and visual stories.
-- Skilled with Figma, Sketch, Adobe XD, and Adobe Creative Suite.
+| Sector | Technologies |
+| :--- | :--- |
+| **Frontend** | `Next.js 14 (App Router)`, `TypeScript`, `Tailwind CSS`, `Framer Motion` |
+| **Backend** | `Node.js`, `Python (FastAPI/Flask)`, `Go`, `PostgreSQL`, `Prisma` |
+| **Security** | `Ethical Hacking`, `Network Cryptography`, `OWASP Top 10`, `Linux Hardening` |
+| **DevOps** | `Docker`, `Vercel`, `Git/GitHub Actions`, `AWS` |
 
-## 🛠️ Technologies & Tools
+---
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
+### 🚀 Latest Mission Logs (Recent Projects)
 
-## 📈 GitHub Stats
+#### 🔋 **AC Inc. Design System**
+* **Role:** Lead Architect
+* **Stack:** Next.js, Tailwind, Lucide-React.
+* **Result:** Developed a proprietary "Deep Dark" UI kit featuring glassmorphism and high-performance micro-interactions.
+* **Feature:** Optimized for LCP (Largest Contentful Paint) < 1.2s.
 
-![Nihalzown's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihalzown&show_icons=true&theme=dark&hide=stars,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihalzown&layout=compact&theme=dark)
+#### 🛡️ **Neural-Shield Security Auditor**
+* **Role:** Security Engineer
+* **Stack:** Python, Scapy, Docker.
+* **Result:** Built a localized network vulnerability scanner that identifies open ports and suggests remediation protocols based on CVE databases.
 
-## 📫 Contact Me
-- Email: [nihalnihu710@gmail.com](mailto:nihalnihu710@gmail.com)
-- LinkedIn: [Muhammed Nihal](https://www.linkedin.com/in/nihalzown/)
-- GitHub: [Nihalzown](https://github.com/nihalzown)
+#### 📦 **Distributed Inventory Matrix**
+* **Role:** Full-Stack Developer
+* **Stack:** TypeScript, PostgreSQL, Prisma.
+* **Result:** A modular supply-chain tracker with real-time state synchronization and 99.9% data consistency.
 
-Feel free to explore my repositories and connect with me!
+---
 
-Thanks for visiting! 😊
-> "The only way to do great work is to love what you do." - Steve Jobs
+### 📊 System Analytics
+
+![Nihalzown's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihalzown&show_icons=true&theme=tokyonight&hide=stars,prs&bg_color=050505&title_color=10b981&icon_color=10b981)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihalzown&layout=compact&theme=tokyonight&bg_color=050505&title_color=10b981&text_color=ffffff)
+
+---
+
+### 📡 Encrypted Communication
+
+* **Terminal:** [nihalnihu710@gmail.com](mailto:nihalnihu710@gmail.com)
+* **LinkedIn:** [Muhammed Nihal](https://www.linkedin.com/in/nihalzown/)
+* **GitHub:** [@Nihalzown](https://github.com/nihalzown)
+
+---
+
+> "Architecting the future, one commit at a time." — **Protocol AC-01**
